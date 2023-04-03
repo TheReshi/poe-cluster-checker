@@ -95,9 +95,9 @@ def get_poedb_data(cluster_size):
         comb_count = 0
 
         if cluster_size == "Large":
-            comb_count = len(cluster_prefixes) * (len(cluster_prefixes) - 1) * len(cluster_suffixes)
+            comb_count = (len(cluster_prefixes) * (len(cluster_prefixes) - 1) * len(cluster_suffixes)) / 2
         elif cluster_size == "Medium":
-            comb_count = len(cluster_prefixes) * (len(cluster_prefixes) - 1)
+            comb_count = (len(cluster_prefixes) * (len(cluster_prefixes) - 1)) / 2
         else:
             comb_count = len(cluster_prefixes)
 
@@ -108,7 +108,7 @@ def get_poedb_data(cluster_size):
             'clusterSuffixes': cluster_suffixes,
             'clusterPrefixCount': len(cluster_prefixes),
             'clusterSuffixCount': len(cluster_suffixes),
-            'clusterCombCount': comb_count,
+            'clusterCombCount': int(comb_count),
             # 'clusterNotables': listOfNotables,
             # 'clusterNotableCount': notableCount,
             # 'clusterNotableCombinationCount': combCount,
@@ -129,14 +129,16 @@ def update_cluster_data():
     file_dir = "data"
     if (os.path.exists(file_dir) == False):
         os.mkdir(file_dir)
+    if (os.path.exists(file_dir + "/clustermods") == False):
+        os.mkdir(file_dir + "/clustermods")
 
-    with open(file_dir + '/small.json', 'w') as outfile:
+    with open(file_dir + '/clustermods/small.json', 'w') as outfile:
         json.dump(get_poedb_data("Small"), outfile, indent=2)
 
-    with open(file_dir + '/medium.json', 'w') as outfile:
+    with open(file_dir + '/clustermods/medium.json', 'w') as outfile:
         json.dump(get_poedb_data("Medium"), outfile, indent=2)
 
-    with open(file_dir + '/large.json', 'w') as outfile:
+    with open(file_dir + '/clustermods/large.json', 'w') as outfile:
         json.dump(get_poedb_data("Large"), outfile, indent=2)
 
 update_cluster_data()
