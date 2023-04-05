@@ -1,3 +1,5 @@
+DEBUG = 0
+
 class BgColors:
     RED = '\033[31m'
     GREEN = '\033[32m'
@@ -12,3 +14,13 @@ class BgColors:
     ENDC = '\033[0m'
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
+
+CURRENCY_ID = {
+    'mirror': 22,
+    'divine': 3,
+    'exalted': 2,
+}
+
+def debug(msg) -> None:
+    if DEBUG:
+        print(msg)

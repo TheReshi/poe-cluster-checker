@@ -6,4 +6,4 @@ import combinations as comb
 if __name__ == "__main__":
     gcd.update_cluster_data()
     comb.update_comb_data()
-    pc.check_prices()
+    # pc.check_prices()
