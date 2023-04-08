@@ -66,7 +66,10 @@ def get_item_prices(cluster_id, combs):
         while 'result' not in response:
             for sess_id in SESSION_ID:
                 res.debug(f"Starting to fetch items with SESSID: {sess_id}")
-                response = fetch_items(found_items, sess_id)
+                while response == -1 or response == "":
+                    if response == -1:
+                        time.sleep(300)
+                    response = fetch_items(found_items, sess_id)
                 if 'error' in response.json():
                     res.debug(f"Continue with SESSID: {sess_id}")
                     continue
@@ -328,11 +331,16 @@ def fetch_items(found_items, sess_id):
         headers=headers,
     )
 
-    res.debug(f"Headers from fetch: {response.headers}")
+    try:
+        res.debug(f"Headers from fetch: {response.headers}")
 
-    if 'error' in response.json():
-        res.debug(f"Error while fetching items with SESSID: {sess_id} | Error: {response.json()}")
+        if 'error' in response.json():
+            res.debug(f"Error while fetching items with SESSID: {sess_id} | Error: {response.json()}")
 
-    return response
+        return response
+
+    except:
+        return -1
+
 
 read_sess_ids()
