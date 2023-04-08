@@ -4,6 +4,7 @@ import count_combs as cc
 import json, time
 import get_cluster_data as gcd
 import combinations as combs
+import os
 
 # with open("data/clustercombs/large.json", 'r') as infile:
 #     cluster_data = json.load(infile)
@@ -34,6 +35,10 @@ import combinations as combs
 def pricecheck_cluster(cluster_size):
     with open(f"data/clustercombs/{cluster_size.lower()}.json", 'r') as infile:
         cluster_data = json.load(infile)
+
+    if os.path.exists(f"data/output/{cluster_size.lower()}_prices.csv"):
+        with open(f"data/output/{cluster_size.lower()}_prices.csv", "w") as file:
+            pass
 
     comb_count = cc.count_combs(cluster_size)
     current_comb = 0
