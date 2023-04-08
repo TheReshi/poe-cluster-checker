@@ -2,9 +2,15 @@ import requests
 import resources as res
 import time
 
-LEAGUE = "Standard"
-SESSION_ID = ["e900e93406d7d8f2c6d4e1f49e98bdf3"]
+LEAGUE = "Crucible"
+SESSION_ID = []
 CURRENCY_DATA = {}
+non_added = []
+
+def read_sess_ids():
+    with open("sessid.txt", 'r') as sessidfile:
+        for sessid in sessidfile:
+            SESSION_ID.append(sessid)
 
 def get_currency_data():
     for currency in res.CURRENCY_ID.keys():
@@ -34,12 +40,12 @@ get_currency_data()
 
 # DIVINE_PRICE = get_divine_price()
 
-def get_item_prices(cluster_id, prefix1, prefix2, suffix = 0):
+def get_item_prices(cluster_id, combs):
     item_data = None
 
     while not item_data:
         for sess_id in SESSION_ID:
-            item_data = get_item_data(sess_id, cluster_id, prefix1, prefix2, suffix)
+            item_data = get_item_data(sess_id, cluster_id, combs)
             if item_data:
                 break
         if not item_data:
@@ -81,7 +87,8 @@ def get_item_prices(cluster_id, prefix1, prefix2, suffix = 0):
                             elif result['listing']['price']['currency'] == "chaos":
                                 prices.append(int(result['listing']['price']['amount']))
                     else:
-                        print(f"NON-ADDED CURRENCY: {result['listing']['price']['currency']}")
+                        non_added.append(result['listing']['price']['currency'])
+                        # print(f"NON-ADDED CURRENCY: {result['listing']['price']['currency']}")
                         prices.append(f"{result['listing']['price']['amount']} OTHER_CURRENCY: {result['listing']['price']['currency']}")
 
                     # if result['listing']['price']['currency'] == "divine":
@@ -94,8 +101,8 @@ def get_item_prices(cluster_id, prefix1, prefix2, suffix = 0):
 
     return prices
 
-def get_item_data(session_id, cluster_id, prefix1, prefix2, suffix):
-    res.debug(f"cluster_id, prefix1, prefix2, suffix, session_id: {cluster_id}, {prefix1}, {prefix2}, {suffix}, {session_id}")
+def get_item_data(session_id, cluster_id, combs):
+    # res.debug(f"cluster_id, prefix1, prefix2, suffix, session_id: {cluster_id}, {prefix1}, {prefix2}, {suffix}, {session_id}")
     res.debug(f"Getting items with SESSID: {session_id}")
 
     cookies = {
@@ -146,15 +153,15 @@ def get_item_data(session_id, cluster_id, prefix1, prefix2, suffix):
                                 },
                             },
                             {
-                                'id': prefix1,
+                                'id': combs[0]["notableId"],
                                 'disabled': False,
                             },
                             {
-                                'id': prefix2,
+                                'id': combs[1]["notableId"],
                                 'disabled': False,
                             },
                             {
-                                'id': suffix,
+                                'id': combs[2]["notableId"],
                                 'disabled': False,
                             },
                         ],
@@ -225,10 +232,10 @@ def get_item_data(session_id, cluster_id, prefix1, prefix2, suffix):
                                 'disabled': False,
                             },
                             {
-                                'id': 'explicit.stat_3818661553',
+                                'id': combs[0]["notableId"],
                             },
                             {
-                                'id': 'explicit.stat_2335364359',
+                                'id': combs[1]["notableId"],
                             },
                         ],
                         'type': 'and',
@@ -327,3 +334,5 @@ def fetch_items(found_items, sess_id):
         res.debug(f"Error while fetching items with SESSID: {sess_id} | Error: {response.json()}")
 
     return response
+
+read_sess_ids()

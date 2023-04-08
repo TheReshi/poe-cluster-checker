@@ -1,0 +1,908 @@
+[
+  {
+    "clusterId": 18,
+    "clusterName": "12% increased Burning Damage",
+    "clusterCombCount": 153,
+    "clusterPrefixCount": 18,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3818661553",
+        "notableName": "Eye of the Storm"
+      },
+      {
+        "notableId": "explicit.stat_1462135249",
+        "notableName": "Master of Fire"
+      },
+      {
+        "notableId": "explicit.stat_2322980282",
+        "notableName": "Smoking Remains"
+      },
+      {
+        "notableId": "explicit.stat_1153801980",
+        "notableName": "Cremator"
+      },
+      {
+        "notableId": "explicit.stat_1612414696",
+        "notableName": "Blowback"
+      },
+      {
+        "notableId": "explicit.stat_2918755450",
+        "notableName": "Fan the Flames"
+      },
+      {
+        "notableId": "explicit.stat_2938895712",
+        "notableName": "Cooked Alive"
+      },
+      {
+        "notableId": "explicit.stat_4199056048",
+        "notableName": "Burning Bright"
+      },
+      {
+        "notableId": "explicit.stat_241783558",
+        "notableName": "Wrapped in Flame"
+      },
+      {
+        "notableId": "explicit.stat_2066820199",
+        "notableName": "Wasting Affliction"
+      },
+      {
+        "notableId": "explicit.stat_72129119",
+        "notableName": "Haemorrhage"
+      },
+      {
+        "notableId": "explicit.stat_2350430215",
+        "notableName": "Flow of Life"
+      },
+      {
+        "notableId": "explicit.stat_131358113",
+        "notableName": "Exposure Therapy"
+      },
+      {
+        "notableId": "explicit.stat_2900833792",
+        "notableName": "Brush with Death"
+      },
+      {
+        "notableId": "explicit.stat_647201233",
+        "notableName": "Vile Reinvigoration"
+      },
+      {
+        "notableId": "explicit.stat_2129392647",
+        "notableName": "Circling Oblivion"
+      },
+      {
+        "notableId": "explicit.stat_3250272113",
+        "notableName": "Brewed for Potency"
+      },
+      {
+        "notableId": "explicit.stat_3202667190",
+        "notableName": "Student of Decay"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 19,
+    "clusterName": "12% increased Chaos Damage over Time",
+    "clusterCombCount": 136,
+    "clusterPrefixCount": 17,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_2788982914",
+        "notableName": "Unwaveringly Evil"
+      },
+      {
+        "notableId": "explicit.stat_1603621602",
+        "notableName": "Dark Ideation"
+      },
+      {
+        "notableId": "explicit.stat_1616734644",
+        "notableName": "Wicked Pall"
+      },
+      {
+        "notableId": "explicit.stat_4290522695",
+        "notableName": "Septic Spells"
+      },
+      {
+        "notableId": "explicit.stat_3989400244",
+        "notableName": "Low Tolerance"
+      },
+      {
+        "notableId": "explicit.stat_3500334379",
+        "notableName": "Steady Torment"
+      },
+      {
+        "notableId": "explicit.stat_2144634814",
+        "notableName": "Eternal Suffering"
+      },
+      {
+        "notableId": "explicit.stat_3737604164",
+        "notableName": "Eldritch Inspiration"
+      },
+      {
+        "notableId": "explicit.stat_2066820199",
+        "notableName": "Wasting Affliction"
+      },
+      {
+        "notableId": "explicit.stat_72129119",
+        "notableName": "Haemorrhage"
+      },
+      {
+        "notableId": "explicit.stat_2350430215",
+        "notableName": "Flow of Life"
+      },
+      {
+        "notableId": "explicit.stat_131358113",
+        "notableName": "Exposure Therapy"
+      },
+      {
+        "notableId": "explicit.stat_2900833792",
+        "notableName": "Brush with Death"
+      },
+      {
+        "notableId": "explicit.stat_647201233",
+        "notableName": "Vile Reinvigoration"
+      },
+      {
+        "notableId": "explicit.stat_2129392647",
+        "notableName": "Circling Oblivion"
+      },
+      {
+        "notableId": "explicit.stat_3250272113",
+        "notableName": "Brewed for Potency"
+      },
+      {
+        "notableId": "explicit.stat_3202667190",
+        "notableName": "Student of Decay"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 20,
+    "clusterName": "12% increased Physical Damage over Time",
+    "clusterCombCount": 136,
+    "clusterPrefixCount": 17,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_69078820",
+        "notableName": "Wound Aggravation"
+      },
+      {
+        "notableId": "explicit.stat_3957006524",
+        "notableName": "Vivid Hues"
+      },
+      {
+        "notableId": "explicit.stat_4263287206",
+        "notableName": "Rend"
+      },
+      {
+        "notableId": "explicit.stat_3351136461",
+        "notableName": "Disorienting Wounds"
+      },
+      {
+        "notableId": "explicit.stat_4018305528",
+        "notableName": "Compound Injury"
+      },
+      {
+        "notableId": "explicit.stat_2284771334",
+        "notableName": "Blood Artist"
+      },
+      {
+        "notableId": "explicit.stat_3057154383",
+        "notableName": "Phlebotomist"
+      },
+      {
+        "notableId": "explicit.stat_3500334379",
+        "notableName": "Steady Torment"
+      },
+      {
+        "notableId": "explicit.stat_2066820199",
+        "notableName": "Wasting Affliction"
+      },
+      {
+        "notableId": "explicit.stat_72129119",
+        "notableName": "Haemorrhage"
+      },
+      {
+        "notableId": "explicit.stat_2350430215",
+        "notableName": "Flow of Life"
+      },
+      {
+        "notableId": "explicit.stat_131358113",
+        "notableName": "Exposure Therapy"
+      },
+      {
+        "notableId": "explicit.stat_2900833792",
+        "notableName": "Brush with Death"
+      },
+      {
+        "notableId": "explicit.stat_647201233",
+        "notableName": "Vile Reinvigoration"
+      },
+      {
+        "notableId": "explicit.stat_2129392647",
+        "notableName": "Circling Oblivion"
+      },
+      {
+        "notableId": "explicit.stat_3250272113",
+        "notableName": "Brewed for Potency"
+      },
+      {
+        "notableId": "explicit.stat_3202667190",
+        "notableName": "Student of Decay"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 21,
+    "clusterName": "12% increased Cold Damage over Time",
+    "clusterCombCount": 66,
+    "clusterPrefixCount": 12,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_836566759",
+        "notableName": "Cold-Blooded Killer"
+      },
+      {
+        "notableId": "explicit.stat_2066820199",
+        "notableName": "Wasting Affliction"
+      },
+      {
+        "notableId": "explicit.stat_72129119",
+        "notableName": "Haemorrhage"
+      },
+      {
+        "notableId": "explicit.stat_2350430215",
+        "notableName": "Flow of Life"
+      },
+      {
+        "notableId": "explicit.stat_131358113",
+        "notableName": "Exposure Therapy"
+      },
+      {
+        "notableId": "explicit.stat_2900833792",
+        "notableName": "Brush with Death"
+      },
+      {
+        "notableId": "explicit.stat_647201233",
+        "notableName": "Vile Reinvigoration"
+      },
+      {
+        "notableId": "explicit.stat_2129392647",
+        "notableName": "Circling Oblivion"
+      },
+      {
+        "notableId": "explicit.stat_3250272113",
+        "notableName": "Brewed for Potency"
+      },
+      {
+        "notableId": "explicit.stat_2834490860",
+        "notableName": "Chilling Presence"
+      },
+      {
+        "notableId": "explicit.stat_1703766309",
+        "notableName": "Deep Chill"
+      },
+      {
+        "notableId": "explicit.stat_693808153",
+        "notableName": "Blast-Freeze"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 22,
+    "clusterName": "10% increased Damage over Time",
+    "clusterCombCount": 36,
+    "clusterPrefixCount": 9,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_2066820199",
+        "notableName": "Wasting Affliction"
+      },
+      {
+        "notableId": "explicit.stat_72129119",
+        "notableName": "Haemorrhage"
+      },
+      {
+        "notableId": "explicit.stat_2350430215",
+        "notableName": "Flow of Life"
+      },
+      {
+        "notableId": "explicit.stat_131358113",
+        "notableName": "Exposure Therapy"
+      },
+      {
+        "notableId": "explicit.stat_2900833792",
+        "notableName": "Brush with Death"
+      },
+      {
+        "notableId": "explicit.stat_647201233",
+        "notableName": "Vile Reinvigoration"
+      },
+      {
+        "notableId": "explicit.stat_2129392647",
+        "notableName": "Circling Oblivion"
+      },
+      {
+        "notableId": "explicit.stat_3250272113",
+        "notableName": "Brewed for Potency"
+      },
+      {
+        "notableId": "explicit.stat_3202667190",
+        "notableName": "Student of Decay"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 23,
+    "clusterName": "10% increased Effect of Non-Damaging Ailments",
+    "clusterCombCount": 36,
+    "clusterPrefixCount": 9,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3818661553",
+        "notableName": "Eye of the Storm"
+      },
+      {
+        "notableId": "explicit.stat_2428334013",
+        "notableName": "Astonishing Affliction"
+      },
+      {
+        "notableId": "explicit.stat_1274505521",
+        "notableName": "Cold Conduction"
+      },
+      {
+        "notableId": "explicit.stat_3872380586",
+        "notableName": "Inspired Oppression"
+      },
+      {
+        "notableId": "explicit.stat_2834490860",
+        "notableName": "Chilling Presence"
+      },
+      {
+        "notableId": "explicit.stat_1703766309",
+        "notableName": "Deep Chill"
+      },
+      {
+        "notableId": "explicit.stat_693808153",
+        "notableName": "Blast-Freeze"
+      },
+      {
+        "notableId": "explicit.stat_889728548",
+        "notableName": "Stormrider"
+      },
+      {
+        "notableId": "explicit.stat_3777170562",
+        "notableName": "Overshock"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 26,
+    "clusterName": "10% increased Damage while affected by a Herald",
+    "clusterCombCount": 28,
+    "clusterPrefixCount": 8,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_507505131",
+        "notableName": "Purposeful Harbinger"
+      },
+      {
+        "notableId": "explicit.stat_3274270612",
+        "notableName": "Heraldry"
+      },
+      {
+        "notableId": "explicit.stat_2150878631",
+        "notableName": "Endbringer"
+      },
+      {
+        "notableId": "explicit.stat_2032453153",
+        "notableName": "Empowered Envoy"
+      },
+      {
+        "notableId": "explicit.stat_3784610129",
+        "notableName": "Dark Messenger"
+      },
+      {
+        "notableId": "explicit.stat_3122491961",
+        "notableName": "Agent of Destruction"
+      },
+      {
+        "notableId": "explicit.stat_426715778",
+        "notableName": "Lasting Impression"
+      },
+      {
+        "notableId": "explicit.stat_2644533453",
+        "notableName": "Self-Fulfilling Prophecy"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 27,
+    "clusterName": "Minions deal 10% increased Damage while you are affected by a Herald",
+    "clusterCombCount": 28,
+    "clusterPrefixCount": 8,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_507505131",
+        "notableName": "Purposeful Harbinger"
+      },
+      {
+        "notableId": "explicit.stat_3274270612",
+        "notableName": "Heraldry"
+      },
+      {
+        "notableId": "explicit.stat_2150878631",
+        "notableName": "Endbringer"
+      },
+      {
+        "notableId": "explicit.stat_2026112251",
+        "notableName": "Cult-Leader"
+      },
+      {
+        "notableId": "explicit.stat_426715778",
+        "notableName": "Lasting Impression"
+      },
+      {
+        "notableId": "explicit.stat_2262034536",
+        "notableName": "Invigorating Portents"
+      },
+      {
+        "notableId": "explicit.stat_1507409483",
+        "notableName": "Pure Agony"
+      },
+      {
+        "notableId": "explicit.stat_3177526694",
+        "notableName": "Disciples"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 28,
+    "clusterName": "Exerted Attacks deal 20% increased Damage",
+    "clusterCombCount": 21,
+    "clusterPrefixCount": 7,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_1048879642",
+        "notableName": "Mob Mentality"
+      },
+      {
+        "notableId": "explicit.stat_1821748178",
+        "notableName": "Cry Wolf"
+      },
+      {
+        "notableId": "explicit.stat_1080363357",
+        "notableName": "Haunting Shout"
+      },
+      {
+        "notableId": "explicit.stat_2195406641",
+        "notableName": "Lead By Example"
+      },
+      {
+        "notableId": "explicit.stat_814369372",
+        "notableName": "Provocateur"
+      },
+      {
+        "notableId": "explicit.stat_578355556",
+        "notableName": "Warning Call"
+      },
+      {
+        "notableId": "explicit.stat_4288473380",
+        "notableName": "Rattling Bellow"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 29,
+    "clusterName": "15% increased Critical Strike Chance",
+    "clusterCombCount": 55,
+    "clusterPrefixCount": 11,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_2335364359",
+        "notableName": "Precise Retaliation"
+      },
+      {
+        "notableId": "explicit.stat_315697256",
+        "notableName": "Skullbreaker"
+      },
+      {
+        "notableId": "explicit.stat_3391925584",
+        "notableName": "Pressure Points"
+      },
+      {
+        "notableId": "explicit.stat_770408103",
+        "notableName": "Overwhelming Malice"
+      },
+      {
+        "notableId": "explicit.stat_2886441936",
+        "notableName": "Magnifier"
+      },
+      {
+        "notableId": "explicit.stat_4222635921",
+        "notableName": "Savage Response"
+      },
+      {
+        "notableId": "explicit.stat_3818661553",
+        "notableName": "Eye of the Storm"
+      },
+      {
+        "notableId": "explicit.stat_3084359503",
+        "notableName": "Basics of Pain"
+      },
+      {
+        "notableId": "explicit.stat_1626818279",
+        "notableName": "Quick Getaway"
+      },
+      {
+        "notableId": "explicit.stat_814369372",
+        "notableName": "Provocateur"
+      },
+      {
+        "notableId": "explicit.stat_72129119",
+        "notableName": "Haemorrhage"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 30,
+    "clusterName": "Minions have 12% increased maximum Life",
+    "clusterCombCount": 21,
+    "clusterPrefixCount": 7,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3607300552",
+        "notableName": "Renewal"
+      },
+      {
+        "notableId": "explicit.stat_3467711950",
+        "notableName": "Hulking Corpses"
+      },
+      {
+        "notableId": "explicit.stat_3087667389",
+        "notableName": "Dread March"
+      },
+      {
+        "notableId": "explicit.stat_1424794574",
+        "notableName": "Blessed Rebirth"
+      },
+      {
+        "notableId": "explicit.stat_2337273077",
+        "notableName": "Life from Death"
+      },
+      {
+        "notableId": "explicit.stat_383245807",
+        "notableName": "Feasting Fiends"
+      },
+      {
+        "notableId": "explicit.stat_791125124",
+        "notableName": "Bodyguards"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 31,
+    "clusterName": "10% increased Area Damage",
+    "clusterCombCount": 21,
+    "clusterPrefixCount": 7,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_2886441936",
+        "notableName": "Magnifier"
+      },
+      {
+        "notableId": "explicit.stat_4222265138",
+        "notableName": "Assert Dominance"
+      },
+      {
+        "notableId": "explicit.stat_1996576560",
+        "notableName": "Vast Power"
+      },
+      {
+        "notableId": "explicit.stat_1005475168",
+        "notableName": "Powerful Assault"
+      },
+      {
+        "notableId": "explicit.stat_2930275641",
+        "notableName": "Titanic Swings"
+      },
+      {
+        "notableId": "explicit.stat_3536778624",
+        "notableName": "Towering Threat"
+      },
+      {
+        "notableId": "explicit.stat_394918362",
+        "notableName": "Expansive Might"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 32,
+    "clusterName": "10% increased Projectile Damage",
+    "clusterCombCount": 15,
+    "clusterPrefixCount": 6,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3984980429",
+        "notableName": "Follow-Through"
+      },
+      {
+        "notableId": "explicit.stat_1397498432",
+        "notableName": "Streamlined"
+      },
+      {
+        "notableId": "explicit.stat_2783012144",
+        "notableName": "Shrieking Bolts"
+      },
+      {
+        "notableId": "explicit.stat_392942015",
+        "notableName": "Eye to Eye"
+      },
+      {
+        "notableId": "explicit.stat_2233272527",
+        "notableName": "Repeater"
+      },
+      {
+        "notableId": "explicit.stat_4120556534",
+        "notableName": "Aerodynamics"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 33,
+    "clusterName": "12% increased Trap Damage\n12% increased Mine Damage",
+    "clusterCombCount": 21,
+    "clusterPrefixCount": 7,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_1101250813",
+        "notableName": "Set and Forget"
+      },
+      {
+        "notableId": "explicit.stat_2084371547",
+        "notableName": "Expert Sabotage"
+      },
+      {
+        "notableId": "explicit.stat_1882129725",
+        "notableName": "Guerilla Tactics"
+      },
+      {
+        "notableId": "explicit.stat_2020075345",
+        "notableName": "Expendability"
+      },
+      {
+        "notableId": "explicit.stat_2043503530",
+        "notableName": "Arcane Pyrotechnics"
+      },
+      {
+        "notableId": "explicit.stat_3051562738",
+        "notableName": "Surprise Sabotage"
+      },
+      {
+        "notableId": "explicit.stat_456502758",
+        "notableName": "Careful Handling"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 34,
+    "clusterName": "12% increased Totem Damage",
+    "clusterCombCount": 28,
+    "clusterPrefixCount": 8,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_957679205",
+        "notableName": "Ancestral Echo"
+      },
+      {
+        "notableId": "explicit.stat_3294884567",
+        "notableName": "Ancestral Reach"
+      },
+      {
+        "notableId": "explicit.stat_3998316",
+        "notableName": "Ancestral Might"
+      },
+      {
+        "notableId": "explicit.stat_3746703776",
+        "notableName": "Ancestral Preservation"
+      },
+      {
+        "notableId": "explicit.stat_3319205340",
+        "notableName": "Snaring Spirits"
+      },
+      {
+        "notableId": "explicit.stat_3993957711",
+        "notableName": "Sleepless Sentries"
+      },
+      {
+        "notableId": "explicit.stat_2387747995",
+        "notableName": "Ancestral Guidance"
+      },
+      {
+        "notableId": "explicit.stat_77045106",
+        "notableName": "Ancestral Inspiration"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 35,
+    "clusterName": "12% increased Brand Damage",
+    "clusterCombCount": 15,
+    "clusterPrefixCount": 6,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_968069586",
+        "notableName": "Chip Away"
+      },
+      {
+        "notableId": "explicit.stat_2261237498",
+        "notableName": "Seeker Runes"
+      },
+      {
+        "notableId": "explicit.stat_691431951",
+        "notableName": "Remarkable"
+      },
+      {
+        "notableId": "explicit.stat_3198006994",
+        "notableName": "Brand Loyalty"
+      },
+      {
+        "notableId": "explicit.stat_3898572660",
+        "notableName": "Holy Conquest"
+      },
+      {
+        "notableId": "explicit.stat_2350900742",
+        "notableName": "Grand Design"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 36,
+    "clusterName": "Channelling Skills deal 12% increased Damage",
+    "clusterCombCount": 21,
+    "clusterPrefixCount": 7,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_2134141047",
+        "notableName": "Vital Focus"
+      },
+      {
+        "notableId": "explicit.stat_1570474940",
+        "notableName": "Rapid Infusion"
+      },
+      {
+        "notableId": "explicit.stat_367638058",
+        "notableName": "Unwavering Focus"
+      },
+      {
+        "notableId": "explicit.stat_2522970386",
+        "notableName": "Enduring Focus"
+      },
+      {
+        "notableId": "explicit.stat_2913581789",
+        "notableName": "Precise Focus"
+      },
+      {
+        "notableId": "explicit.stat_1088949570",
+        "notableName": "Stoic Focus"
+      },
+      {
+        "notableId": "explicit.stat_2341828832",
+        "notableName": "Hex Breaker"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 37,
+    "clusterName": "6% increased Flask Effect Duration",
+    "clusterCombCount": 36,
+    "clusterPrefixCount": 9,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3652138990",
+        "notableName": "Distilled Perfection"
+      },
+      {
+        "notableId": "explicit.stat_3372255769",
+        "notableName": "Spiked Concoction"
+      },
+      {
+        "notableId": "explicit.stat_37078857",
+        "notableName": "Fasting"
+      },
+      {
+        "notableId": "explicit.stat_4291434923",
+        "notableName": "Mender's Wellspring"
+      },
+      {
+        "notableId": "explicit.stat_4235300427",
+        "notableName": "Special Reserve"
+      },
+      {
+        "notableId": "explicit.stat_1028754276",
+        "notableName": "Numbing Elixir"
+      },
+      {
+        "notableId": "explicit.stat_3250272113",
+        "notableName": "Brewed for Potency"
+      },
+      {
+        "notableId": "explicit.stat_1722821275",
+        "notableName": "Peak Vigour"
+      },
+      {
+        "notableId": "explicit.stat_1094635162",
+        "notableName": "Liquid Inspiration"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 38,
+    "clusterName": "10% increased Life Recovery from Flasks\n10% increased Mana Recovery from Flasks",
+    "clusterCombCount": 15,
+    "clusterPrefixCount": 6,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3652138990",
+        "notableName": "Distilled Perfection"
+      },
+      {
+        "notableId": "explicit.stat_3372255769",
+        "notableName": "Spiked Concoction"
+      },
+      {
+        "notableId": "explicit.stat_37078857",
+        "notableName": "Fasting"
+      },
+      {
+        "notableId": "explicit.stat_4291434923",
+        "notableName": "Mender's Wellspring"
+      },
+      {
+        "notableId": "explicit.stat_4235300427",
+        "notableName": "Special Reserve"
+      },
+      {
+        "notableId": "explicit.stat_1028754276",
+        "notableName": "Numbing Elixir"
+      }
+    ],
+    "clusterSuffixes": []
+  }
+]

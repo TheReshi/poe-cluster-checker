@@ -1,0 +1,981 @@
+[
+  {
+    "clusterId": 1,
+    "clusterName": "Axe Attacks deal 12% increased Damage with Hits and Ailments\nSword Attacks deal 12% increased Damage with Hits and Ailments",
+    "clusterCombCount": 135,
+    "clusterPrefixCount": 10,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_567971948",
+        "notableName": "Vicious Skewering"
+      },
+      {
+        "notableId": "explicit.stat_3967765261",
+        "notableName": "Bloodscent"
+      },
+      {
+        "notableId": "explicit.stat_1488030420",
+        "notableName": "Run Through"
+      },
+      {
+        "notableId": "explicit.stat_69078820",
+        "notableName": "Wound Aggravation"
+      },
+      {
+        "notableId": "explicit.stat_3359207393",
+        "notableName": "Calamitous"
+      },
+      {
+        "notableId": "explicit.stat_3711553948",
+        "notableName": "Devastator"
+      },
+      {
+        "notableId": "explicit.stat_3599340381",
+        "notableName": "Fuel the Fight"
+      },
+      {
+        "notableId": "explicit.stat_1911162866",
+        "notableName": "Drive the Destruction"
+      },
+      {
+        "notableId": "explicit.stat_3944525413",
+        "notableName": "Feed the Fury"
+      },
+      {
+        "notableId": "explicit.stat_4154008618",
+        "notableName": "Aggressive Defence"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_540300548",
+        "notableName": "Smite the Weak"
+      },
+      {
+        "notableId": "explicit.stat_3640252904",
+        "notableName": "Heavy Hitter"
+      },
+      {
+        "notableId": "explicit.stat_1152182658",
+        "notableName": "Martial Prowess"
+      }
+    ]
+  },
+  {
+    "clusterId": 2,
+    "clusterName": "Staff Attacks deal 12% increased Damage with Hits and Ailments\nMace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments",
+    "clusterCombCount": 135,
+    "clusterPrefixCount": 10,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_567971948",
+        "notableName": "Vicious Skewering"
+      },
+      {
+        "notableId": "explicit.stat_2250169390",
+        "notableName": "Overlord"
+      },
+      {
+        "notableId": "explicit.stat_394918362",
+        "notableName": "Expansive Might"
+      },
+      {
+        "notableId": "explicit.stat_2244243943",
+        "notableName": "Weight Advantage"
+      },
+      {
+        "notableId": "explicit.stat_3359207393",
+        "notableName": "Calamitous"
+      },
+      {
+        "notableId": "explicit.stat_3711553948",
+        "notableName": "Devastator"
+      },
+      {
+        "notableId": "explicit.stat_3599340381",
+        "notableName": "Fuel the Fight"
+      },
+      {
+        "notableId": "explicit.stat_1911162866",
+        "notableName": "Drive the Destruction"
+      },
+      {
+        "notableId": "explicit.stat_3944525413",
+        "notableName": "Feed the Fury"
+      },
+      {
+        "notableId": "explicit.stat_4154008618",
+        "notableName": "Aggressive Defence"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_540300548",
+        "notableName": "Smite the Weak"
+      },
+      {
+        "notableId": "explicit.stat_3640252904",
+        "notableName": "Heavy Hitter"
+      },
+      {
+        "notableId": "explicit.stat_1152182658",
+        "notableName": "Martial Prowess"
+      }
+    ]
+  },
+  {
+    "clusterId": 3,
+    "clusterName": "Claw Attacks deal 12% increased Damage with Hits and Ailments\nDagger Attacks deal 12% increased Damage with Hits and Ailments",
+    "clusterCombCount": 135,
+    "clusterPrefixCount": 10,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_567971948",
+        "notableName": "Vicious Skewering"
+      },
+      {
+        "notableId": "explicit.stat_1938661964",
+        "notableName": "Wind-up"
+      },
+      {
+        "notableId": "explicit.stat_2484082827",
+        "notableName": "Fan of Blades"
+      },
+      {
+        "notableId": "explicit.stat_183591019",
+        "notableName": "Disease Vector"
+      },
+      {
+        "notableId": "explicit.stat_3359207393",
+        "notableName": "Calamitous"
+      },
+      {
+        "notableId": "explicit.stat_3711553948",
+        "notableName": "Devastator"
+      },
+      {
+        "notableId": "explicit.stat_3599340381",
+        "notableName": "Fuel the Fight"
+      },
+      {
+        "notableId": "explicit.stat_1911162866",
+        "notableName": "Drive the Destruction"
+      },
+      {
+        "notableId": "explicit.stat_3944525413",
+        "notableName": "Feed the Fury"
+      },
+      {
+        "notableId": "explicit.stat_4154008618",
+        "notableName": "Aggressive Defence"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_540300548",
+        "notableName": "Smite the Weak"
+      },
+      {
+        "notableId": "explicit.stat_3640252904",
+        "notableName": "Heavy Hitter"
+      },
+      {
+        "notableId": "explicit.stat_1152182658",
+        "notableName": "Martial Prowess"
+      }
+    ]
+  },
+  {
+    "clusterId": 4,
+    "clusterName": "12% increased Damage with Bows\n12% increased Damage Over Time with Bow Skills",
+    "clusterCombCount": 108,
+    "clusterPrefixCount": 9,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_567971948",
+        "notableName": "Vicious Skewering"
+      },
+      {
+        "notableId": "explicit.stat_3212859169",
+        "notableName": "Arcing Shot"
+      },
+      {
+        "notableId": "explicit.stat_2631806437",
+        "notableName": "Tempered Arrowheads"
+      },
+      {
+        "notableId": "explicit.stat_2205982416",
+        "notableName": "Broadside"
+      },
+      {
+        "notableId": "explicit.stat_3359207393",
+        "notableName": "Calamitous"
+      },
+      {
+        "notableId": "explicit.stat_3711553948",
+        "notableName": "Devastator"
+      },
+      {
+        "notableId": "explicit.stat_3599340381",
+        "notableName": "Fuel the Fight"
+      },
+      {
+        "notableId": "explicit.stat_1911162866",
+        "notableName": "Drive the Destruction"
+      },
+      {
+        "notableId": "explicit.stat_3944525413",
+        "notableName": "Feed the Fury"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_540300548",
+        "notableName": "Smite the Weak"
+      },
+      {
+        "notableId": "explicit.stat_3640252904",
+        "notableName": "Heavy Hitter"
+      },
+      {
+        "notableId": "explicit.stat_1152182658",
+        "notableName": "Martial Prowess"
+      }
+    ]
+  },
+  {
+    "clusterId": 5,
+    "clusterName": "Wand Attacks deal 12% increased Damage with Hits and Ailments",
+    "clusterCombCount": 108,
+    "clusterPrefixCount": 9,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_567971948",
+        "notableName": "Vicious Skewering"
+      },
+      {
+        "notableId": "explicit.stat_2017927451",
+        "notableName": "Explosive Force"
+      },
+      {
+        "notableId": "explicit.stat_4281625943",
+        "notableName": "Opportunistic Fusilade"
+      },
+      {
+        "notableId": "explicit.stat_1122051203",
+        "notableName": "Storm's Hand"
+      },
+      {
+        "notableId": "explicit.stat_3359207393",
+        "notableName": "Calamitous"
+      },
+      {
+        "notableId": "explicit.stat_3711553948",
+        "notableName": "Devastator"
+      },
+      {
+        "notableId": "explicit.stat_3599340381",
+        "notableName": "Fuel the Fight"
+      },
+      {
+        "notableId": "explicit.stat_1911162866",
+        "notableName": "Drive the Destruction"
+      },
+      {
+        "notableId": "explicit.stat_3944525413",
+        "notableName": "Feed the Fury"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_540300548",
+        "notableName": "Smite the Weak"
+      },
+      {
+        "notableId": "explicit.stat_3640252904",
+        "notableName": "Heavy Hitter"
+      },
+      {
+        "notableId": "explicit.stat_1152182658",
+        "notableName": "Martial Prowess"
+      }
+    ]
+  },
+  {
+    "clusterId": 6,
+    "clusterName": "12% increased Damage with Two Handed Weapons",
+    "clusterCombCount": 234,
+    "clusterPrefixCount": 13,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_567971948",
+        "notableName": "Vicious Skewering"
+      },
+      {
+        "notableId": "explicit.stat_2930275641",
+        "notableName": "Titanic Swings"
+      },
+      {
+        "notableId": "explicit.stat_1499057234",
+        "notableName": "Battlefield Dominator"
+      },
+      {
+        "notableId": "explicit.stat_1015189426",
+        "notableName": "Martial Mastery"
+      },
+      {
+        "notableId": "explicit.stat_3410752193",
+        "notableName": "Surefooted Striker"
+      },
+      {
+        "notableId": "explicit.stat_1903496649",
+        "notableName": "Graceful Execution"
+      },
+      {
+        "notableId": "explicit.stat_2068574831",
+        "notableName": "Brutal Infamy"
+      },
+      {
+        "notableId": "explicit.stat_3134222965",
+        "notableName": "Fearsome Warrior"
+      },
+      {
+        "notableId": "explicit.stat_3359207393",
+        "notableName": "Calamitous"
+      },
+      {
+        "notableId": "explicit.stat_3711553948",
+        "notableName": "Devastator"
+      },
+      {
+        "notableId": "explicit.stat_3599340381",
+        "notableName": "Fuel the Fight"
+      },
+      {
+        "notableId": "explicit.stat_1911162866",
+        "notableName": "Drive the Destruction"
+      },
+      {
+        "notableId": "explicit.stat_3944525413",
+        "notableName": "Feed the Fury"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_540300548",
+        "notableName": "Smite the Weak"
+      },
+      {
+        "notableId": "explicit.stat_3640252904",
+        "notableName": "Heavy Hitter"
+      },
+      {
+        "notableId": "explicit.stat_1152182658",
+        "notableName": "Martial Prowess"
+      }
+    ]
+  },
+  {
+    "clusterId": 7,
+    "clusterName": "12% increased Attack Damage while Dual Wielding",
+    "clusterCombCount": 234,
+    "clusterPrefixCount": 13,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_567971948",
+        "notableName": "Vicious Skewering"
+      },
+      {
+        "notableId": "explicit.stat_3122505794",
+        "notableName": "Combat Rhythm"
+      },
+      {
+        "notableId": "explicit.stat_2665170385",
+        "notableName": "Hit and Run"
+      },
+      {
+        "notableId": "explicit.stat_3904970959",
+        "notableName": "Insatiable Killer"
+      },
+      {
+        "notableId": "explicit.stat_684155617",
+        "notableName": "Mage Bane"
+      },
+      {
+        "notableId": "explicit.stat_2978494217",
+        "notableName": "Martial Momentum"
+      },
+      {
+        "notableId": "explicit.stat_1013470938",
+        "notableName": "Deadly Repartee"
+      },
+      {
+        "notableId": "explicit.stat_2169345147",
+        "notableName": "Quick and Deadly"
+      },
+      {
+        "notableId": "explicit.stat_3359207393",
+        "notableName": "Calamitous"
+      },
+      {
+        "notableId": "explicit.stat_3711553948",
+        "notableName": "Devastator"
+      },
+      {
+        "notableId": "explicit.stat_3599340381",
+        "notableName": "Fuel the Fight"
+      },
+      {
+        "notableId": "explicit.stat_1911162866",
+        "notableName": "Drive the Destruction"
+      },
+      {
+        "notableId": "explicit.stat_3944525413",
+        "notableName": "Feed the Fury"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_540300548",
+        "notableName": "Smite the Weak"
+      },
+      {
+        "notableId": "explicit.stat_3640252904",
+        "notableName": "Heavy Hitter"
+      },
+      {
+        "notableId": "explicit.stat_1152182658",
+        "notableName": "Martial Prowess"
+      }
+    ]
+  },
+  {
+    "clusterId": 8,
+    "clusterName": "12% increased Attack Damage while holding a Shield",
+    "clusterCombCount": 234,
+    "clusterPrefixCount": 13,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_1705633890",
+        "notableName": "Prodigious Defence"
+      },
+      {
+        "notableId": "explicit.stat_1625939562",
+        "notableName": "Advance Guard"
+      },
+      {
+        "notableId": "explicit.stat_282062371",
+        "notableName": "Strike Leader"
+      },
+      {
+        "notableId": "explicit.stat_1591995797",
+        "notableName": "Gladiator's Fortitude"
+      },
+      {
+        "notableId": "explicit.stat_2335364359",
+        "notableName": "Precise Retaliation"
+      },
+      {
+        "notableId": "explicit.stat_664010431",
+        "notableName": "Veteran Defender"
+      },
+      {
+        "notableId": "explicit.stat_567971948",
+        "notableName": "Vicious Skewering"
+      },
+      {
+        "notableId": "explicit.stat_3359207393",
+        "notableName": "Calamitous"
+      },
+      {
+        "notableId": "explicit.stat_3711553948",
+        "notableName": "Devastator"
+      },
+      {
+        "notableId": "explicit.stat_3599340381",
+        "notableName": "Fuel the Fight"
+      },
+      {
+        "notableId": "explicit.stat_1911162866",
+        "notableName": "Drive the Destruction"
+      },
+      {
+        "notableId": "explicit.stat_3944525413",
+        "notableName": "Feed the Fury"
+      },
+      {
+        "notableId": "explicit.stat_254194892",
+        "notableName": "Riot Queller"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_540300548",
+        "notableName": "Smite the Weak"
+      },
+      {
+        "notableId": "explicit.stat_3640252904",
+        "notableName": "Heavy Hitter"
+      },
+      {
+        "notableId": "explicit.stat_1152182658",
+        "notableName": "Martial Prowess"
+      }
+    ]
+  },
+  {
+    "clusterId": 9,
+    "clusterName": "10% increased Attack Damage",
+    "clusterCombCount": 45,
+    "clusterPrefixCount": 6,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_567971948",
+        "notableName": "Vicious Skewering"
+      },
+      {
+        "notableId": "explicit.stat_3359207393",
+        "notableName": "Calamitous"
+      },
+      {
+        "notableId": "explicit.stat_3711553948",
+        "notableName": "Devastator"
+      },
+      {
+        "notableId": "explicit.stat_3599340381",
+        "notableName": "Fuel the Fight"
+      },
+      {
+        "notableId": "explicit.stat_1911162866",
+        "notableName": "Drive the Destruction"
+      },
+      {
+        "notableId": "explicit.stat_3944525413",
+        "notableName": "Feed the Fury"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_540300548",
+        "notableName": "Smite the Weak"
+      },
+      {
+        "notableId": "explicit.stat_3640252904",
+        "notableName": "Heavy Hitter"
+      },
+      {
+        "notableId": "explicit.stat_1152182658",
+        "notableName": "Martial Prowess"
+      }
+    ]
+  },
+  {
+    "clusterId": 10,
+    "clusterName": "10% increased Spell Damage",
+    "clusterCombCount": 84,
+    "clusterPrefixCount": 8,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_77045106",
+        "notableName": "Ancestral Inspiration"
+      },
+      {
+        "notableId": "explicit.stat_393565679",
+        "notableName": "Arcane Adept"
+      },
+      {
+        "notableId": "explicit.stat_876846990",
+        "notableName": "Seal Mender"
+      },
+      {
+        "notableId": "explicit.stat_4105031548",
+        "notableName": "Conjured Wall"
+      },
+      {
+        "notableId": "explicit.stat_3901992019",
+        "notableName": "Arcane Heroism"
+      },
+      {
+        "notableId": "explicit.stat_3435403756",
+        "notableName": "Practiced Caster"
+      },
+      {
+        "notableId": "explicit.stat_2008682345",
+        "notableName": "Burden Projection"
+      },
+      {
+        "notableId": "explicit.stat_2118664144",
+        "notableName": "Mage Hunter"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_177215332",
+        "notableName": "Thaumophage"
+      },
+      {
+        "notableId": "explicit.stat_1096136223",
+        "notableName": "Essence Rush"
+      },
+      {
+        "notableId": "explicit.stat_715786975",
+        "notableName": "Sap Psyche"
+      }
+    ]
+  },
+  {
+    "clusterId": 11,
+    "clusterName": "10% increased Elemental Damage",
+    "clusterCombCount": 18,
+    "clusterPrefixCount": 4,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3638731729",
+        "notableName": "Sadist"
+      },
+      {
+        "notableId": "explicit.stat_1777139212",
+        "notableName": "Corrosive Elements"
+      },
+      {
+        "notableId": "explicit.stat_2342448236",
+        "notableName": "Prismatic Heart"
+      },
+      {
+        "notableId": "explicit.stat_3872380586",
+        "notableName": "Inspired Oppression"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_228455793",
+        "notableName": "Doryani's Lesson"
+      },
+      {
+        "notableId": "explicit.stat_3206911230",
+        "notableName": "Disorienting Display"
+      },
+      {
+        "notableId": "explicit.stat_1678643716",
+        "notableName": "Widespread Destruction"
+      }
+    ]
+  },
+  {
+    "clusterId": 12,
+    "clusterName": "12% increased Physical Damage",
+    "clusterCombCount": 9,
+    "clusterPrefixCount": 3,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3258653591",
+        "notableName": "Iron Breaker"
+      },
+      {
+        "notableId": "explicit.stat_3585232432",
+        "notableName": "Master the Fundamentals"
+      },
+      {
+        "notableId": "explicit.stat_4188581520",
+        "notableName": "Battle-Hardened"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_1904581068",
+        "notableName": "Force Multiplier"
+      },
+      {
+        "notableId": "explicit.stat_3415827027",
+        "notableName": "Furious Assault"
+      },
+      {
+        "notableId": "explicit.stat_2194205899",
+        "notableName": "Grim Oath"
+      }
+    ]
+  },
+  {
+    "clusterId": 13,
+    "clusterName": "12% increased Fire Damage",
+    "clusterCombCount": 63,
+    "clusterPrefixCount": 7,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3638731729",
+        "notableName": "Sadist"
+      },
+      {
+        "notableId": "explicit.stat_1777139212",
+        "notableName": "Corrosive Elements"
+      },
+      {
+        "notableId": "explicit.stat_2342448236",
+        "notableName": "Prismatic Heart"
+      },
+      {
+        "notableId": "explicit.stat_1462135249",
+        "notableName": "Master of Fire"
+      },
+      {
+        "notableId": "explicit.stat_2322980282",
+        "notableName": "Smoking Remains"
+      },
+      {
+        "notableId": "explicit.stat_1153801980",
+        "notableName": "Cremator"
+      },
+      {
+        "notableId": "explicit.stat_4199056048",
+        "notableName": "Burning Bright"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_228455793",
+        "notableName": "Doryani's Lesson"
+      },
+      {
+        "notableId": "explicit.stat_3206911230",
+        "notableName": "Disorienting Display"
+      },
+      {
+        "notableId": "explicit.stat_1678643716",
+        "notableName": "Widespread Destruction"
+      }
+    ]
+  },
+  {
+    "clusterId": 14,
+    "clusterName": "12% increased Lightning Damage",
+    "clusterCombCount": 165,
+    "clusterPrefixCount": 11,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3638731729",
+        "notableName": "Sadist"
+      },
+      {
+        "notableId": "explicit.stat_1777139212",
+        "notableName": "Corrosive Elements"
+      },
+      {
+        "notableId": "explicit.stat_2342448236",
+        "notableName": "Prismatic Heart"
+      },
+      {
+        "notableId": "explicit.stat_1595367309",
+        "notableName": "Snowstorm"
+      },
+      {
+        "notableId": "explicit.stat_2087561637",
+        "notableName": "Storm Drinker"
+      },
+      {
+        "notableId": "explicit.stat_4272503233",
+        "notableName": "Paralysis"
+      },
+      {
+        "notableId": "explicit.stat_3872380586",
+        "notableName": "Inspired Oppression"
+      },
+      {
+        "notableId": "explicit.stat_1741700339",
+        "notableName": "Thunderstruck"
+      },
+      {
+        "notableId": "explicit.stat_889728548",
+        "notableName": "Stormrider"
+      },
+      {
+        "notableId": "explicit.stat_3777170562",
+        "notableName": "Overshock"
+      },
+      {
+        "notableId": "explicit.stat_2589589781",
+        "notableName": "Scintillating Idea"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_228455793",
+        "notableName": "Doryani's Lesson"
+      },
+      {
+        "notableId": "explicit.stat_3206911230",
+        "notableName": "Disorienting Display"
+      },
+      {
+        "notableId": "explicit.stat_1678643716",
+        "notableName": "Widespread Destruction"
+      }
+    ]
+  },
+  {
+    "clusterId": 15,
+    "clusterName": "12% increased Cold Damage",
+    "clusterCombCount": 165,
+    "clusterPrefixCount": 11,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3638731729",
+        "notableName": "Sadist"
+      },
+      {
+        "notableId": "explicit.stat_1777139212",
+        "notableName": "Corrosive Elements"
+      },
+      {
+        "notableId": "explicit.stat_2342448236",
+        "notableName": "Prismatic Heart"
+      },
+      {
+        "notableId": "explicit.stat_1595367309",
+        "notableName": "Snowstorm"
+      },
+      {
+        "notableId": "explicit.stat_1085167979",
+        "notableName": "Blanketed Snow"
+      },
+      {
+        "notableId": "explicit.stat_744783843",
+        "notableName": "Cold to the Core"
+      },
+      {
+        "notableId": "explicit.stat_836566759",
+        "notableName": "Cold-Blooded Killer"
+      },
+      {
+        "notableId": "explicit.stat_3872380586",
+        "notableName": "Inspired Oppression"
+      },
+      {
+        "notableId": "explicit.stat_1703766309",
+        "notableName": "Deep Chill"
+      },
+      {
+        "notableId": "explicit.stat_693808153",
+        "notableName": "Blast-Freeze"
+      },
+      {
+        "notableId": "explicit.stat_889728548",
+        "notableName": "Stormrider"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_228455793",
+        "notableName": "Doryani's Lesson"
+      },
+      {
+        "notableId": "explicit.stat_3206911230",
+        "notableName": "Disorienting Display"
+      },
+      {
+        "notableId": "explicit.stat_1678643716",
+        "notableName": "Widespread Destruction"
+      }
+    ]
+  },
+  {
+    "clusterId": 16,
+    "clusterName": "12% increased Chaos Damage",
+    "clusterCombCount": 30,
+    "clusterPrefixCount": 5,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_770408103",
+        "notableName": "Overwhelming Malice"
+      },
+      {
+        "notableId": "explicit.stat_2780712583",
+        "notableName": "Touch of Cruelty"
+      },
+      {
+        "notableId": "explicit.stat_2788982914",
+        "notableName": "Unwaveringly Evil"
+      },
+      {
+        "notableId": "explicit.stat_1603621602",
+        "notableName": "Dark Ideation"
+      },
+      {
+        "notableId": "explicit.stat_1616734644",
+        "notableName": "Wicked Pall"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_2194205899",
+        "notableName": "Grim Oath"
+      },
+      {
+        "notableId": "explicit.stat_729163974",
+        "notableName": "Unspeakable Gifts"
+      },
+      {
+        "notableId": "explicit.stat_4186213466",
+        "notableName": "Unholy Grace"
+      }
+    ]
+  },
+  {
+    "clusterId": 17,
+    "clusterName": "Minions deal 10% increased Damage",
+    "clusterCombCount": 30,
+    "clusterPrefixCount": 5,
+    "clusterSuffixCount": 3,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3607300552",
+        "notableName": "Renewal"
+      },
+      {
+        "notableId": "explicit.stat_1038897629",
+        "notableName": "Raze and Pillage"
+      },
+      {
+        "notableId": "explicit.stat_2289610642",
+        "notableName": "Rotten Claws"
+      },
+      {
+        "notableId": "explicit.stat_1290215329",
+        "notableName": "Skeletal Atrophy"
+      },
+      {
+        "notableId": "explicit.stat_383245807",
+        "notableName": "Feasting Fiends"
+      }
+    ],
+    "clusterSuffixes": [
+      {
+        "notableId": "explicit.stat_3317068522",
+        "notableName": "Call to the Slaughter"
+      },
+      {
+        "notableId": "explicit.stat_882876854",
+        "notableName": "Vicious Bite"
+      },
+      {
+        "notableId": "explicit.stat_622362787",
+        "notableName": "Primordial Bond"
+      }
+    ]
+  }
+]

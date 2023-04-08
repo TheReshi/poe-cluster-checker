@@ -1,0 +1,778 @@
+[
+  {
+    "clusterId": 39,
+    "clusterName": "4% increased maximum Life",
+    "clusterCombCount": 20,
+    "clusterPrefixCount": 20,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_1591995797",
+        "notableName": "Gladiator's Fortitude"
+      },
+      {
+        "notableId": "explicit.stat_3536778624",
+        "notableName": "Towering Threat"
+      },
+      {
+        "notableId": "explicit.stat_2350430215",
+        "notableName": "Flow of Life"
+      },
+      {
+        "notableId": "explicit.stat_2900833792",
+        "notableName": "Brush with Death"
+      },
+      {
+        "notableId": "explicit.stat_456502758",
+        "notableName": "Careful Handling"
+      },
+      {
+        "notableId": "explicit.stat_1722821275",
+        "notableName": "Peak Vigour"
+      },
+      {
+        "notableId": "explicit.stat_1353571444",
+        "notableName": "Fettle"
+      },
+      {
+        "notableId": "explicit.stat_2396755365",
+        "notableName": "Feast of Flesh"
+      },
+      {
+        "notableId": "explicit.stat_1364858171",
+        "notableName": "Sublime Sensation"
+      },
+      {
+        "notableId": "explicit.stat_2410501331",
+        "notableName": "Surging Vitality"
+      },
+      {
+        "notableId": "explicit.stat_1734275536",
+        "notableName": "Peace Amidst Chaos"
+      },
+      {
+        "notableId": "explicit.stat_4022743870",
+        "notableName": "Adrenaline"
+      },
+      {
+        "notableId": "explicit.stat_1363668533",
+        "notableName": "Wall of Muscle"
+      },
+      {
+        "notableId": "explicit.stat_3667965781",
+        "notableName": "Holistic Health"
+      },
+      {
+        "notableId": "explicit.stat_1483358825",
+        "notableName": "Heart of Iron"
+      },
+      {
+        "notableId": "explicit.stat_510654792",
+        "notableName": "Natural Vigour"
+      },
+      {
+        "notableId": "explicit.stat_4054656914",
+        "notableName": "Vicious Guard"
+      },
+      {
+        "notableId": "explicit.stat_2478282326",
+        "notableName": "Rote Reinforcement"
+      },
+      {
+        "notableId": "explicit.stat_478147593",
+        "notableName": "Sage"
+      },
+      {
+        "notableId": "explicit.stat_775689239",
+        "notableName": "Blessed"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 40,
+    "clusterName": "6% increased maximum Energy Shield",
+    "clusterCombCount": 10,
+    "clusterPrefixCount": 10,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_2900833792",
+        "notableName": "Brush with Death"
+      },
+      {
+        "notableId": "explicit.stat_647201233",
+        "notableName": "Vile Reinvigoration"
+      },
+      {
+        "notableId": "explicit.stat_1364858171",
+        "notableName": "Sublime Sensation"
+      },
+      {
+        "notableId": "explicit.stat_3539175001",
+        "notableName": "Savour the Moment"
+      },
+      {
+        "notableId": "explicit.stat_2195518432",
+        "notableName": "Energy From Naught"
+      },
+      {
+        "notableId": "explicit.stat_1162352537",
+        "notableName": "Will Shaper"
+      },
+      {
+        "notableId": "explicit.stat_3603695769",
+        "notableName": "Spring Back"
+      },
+      {
+        "notableId": "explicit.stat_2083777017",
+        "notableName": "Conservation of Energy"
+      },
+      {
+        "notableId": "explicit.stat_2314111938",
+        "notableName": "Mystical Ward"
+      },
+      {
+        "notableId": "explicit.stat_3025453294",
+        "notableName": "Self-Control"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 41,
+    "clusterName": "6% increased maximum Mana",
+    "clusterCombCount": 16,
+    "clusterPrefixCount": 16,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_3737604164",
+        "notableName": "Eldritch Inspiration"
+      },
+      {
+        "notableId": "explicit.stat_456502758",
+        "notableName": "Careful Handling"
+      },
+      {
+        "notableId": "explicit.stat_2595115995",
+        "notableName": "Mindfulness"
+      },
+      {
+        "notableId": "explicit.stat_1094635162",
+        "notableName": "Liquid Inspiration"
+      },
+      {
+        "notableId": "explicit.stat_633943719",
+        "notableName": "Openness"
+      },
+      {
+        "notableId": "explicit.stat_2534405517",
+        "notableName": "Daring Ideas"
+      },
+      {
+        "notableId": "explicit.stat_684087686",
+        "notableName": "Clarity of Purpose"
+      },
+      {
+        "notableId": "explicit.stat_2589589781",
+        "notableName": "Scintillating Idea"
+      },
+      {
+        "notableId": "explicit.stat_3667965781",
+        "notableName": "Holistic Health"
+      },
+      {
+        "notableId": "explicit.stat_2763732093",
+        "notableName": "Genius"
+      },
+      {
+        "notableId": "explicit.stat_810219447",
+        "notableName": "Improvisor"
+      },
+      {
+        "notableId": "explicit.stat_2383914651",
+        "notableName": "Stubborn Student"
+      },
+      {
+        "notableId": "explicit.stat_1162352537",
+        "notableName": "Will Shaper"
+      },
+      {
+        "notableId": "explicit.stat_3078065247",
+        "notableName": "Wizardry"
+      },
+      {
+        "notableId": "explicit.stat_478147593",
+        "notableName": "Sage"
+      },
+      {
+        "notableId": "explicit.stat_775689239",
+        "notableName": "Blessed"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 42,
+    "clusterName": "15% increased Armour",
+    "clusterCombCount": 10,
+    "clusterPrefixCount": 10,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_4188581520",
+        "notableName": "Battle-Hardened"
+      },
+      {
+        "notableId": "explicit.stat_2383914651",
+        "notableName": "Stubborn Student"
+      },
+      {
+        "notableId": "explicit.stat_1483358825",
+        "notableName": "Heart of Iron"
+      },
+      {
+        "notableId": "explicit.stat_3492924480",
+        "notableName": "Prismatic Carapace"
+      },
+      {
+        "notableId": "explicit.stat_4154709486",
+        "notableName": "Militarism"
+      },
+      {
+        "notableId": "explicit.stat_2773515950",
+        "notableName": "Second Skin"
+      },
+      {
+        "notableId": "explicit.stat_1038955006",
+        "notableName": "Dragon Hunter"
+      },
+      {
+        "notableId": "explicit.stat_2043284086",
+        "notableName": "Enduring Composure"
+      },
+      {
+        "notableId": "explicit.stat_1127706436",
+        "notableName": "Blacksmith"
+      },
+      {
+        "notableId": "explicit.stat_382360671",
+        "notableName": "Uncompromising"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 43,
+    "clusterName": "15% increased Evasion Rating",
+    "clusterCombCount": 7,
+    "clusterPrefixCount": 7,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_4188581520",
+        "notableName": "Battle-Hardened"
+      },
+      {
+        "notableId": "explicit.stat_1149662934",
+        "notableName": "Prismatic Dance"
+      },
+      {
+        "notableId": "explicit.stat_510654792",
+        "notableName": "Natural Vigour"
+      },
+      {
+        "notableId": "explicit.stat_2758966888",
+        "notableName": "Untouchable"
+      },
+      {
+        "notableId": "explicit.stat_1476913894",
+        "notableName": "Shifting Shadow"
+      },
+      {
+        "notableId": "explicit.stat_845306697",
+        "notableName": "Readiness"
+      },
+      {
+        "notableId": "explicit.stat_2251304016",
+        "notableName": "Sublime Form"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 44,
+    "clusterName": "+1% Chance to Block Attack Damage",
+    "clusterCombCount": 14,
+    "clusterPrefixCount": 14,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_1705633890",
+        "notableName": "Prodigious Defence"
+      },
+      {
+        "notableId": "explicit.stat_282062371",
+        "notableName": "Strike Leader"
+      },
+      {
+        "notableId": "explicit.stat_164032122",
+        "notableName": "Powerful Ward"
+      },
+      {
+        "notableId": "explicit.stat_252724319",
+        "notableName": "Enduring Ward"
+      },
+      {
+        "notableId": "explicit.stat_1088949570",
+        "notableName": "Stoic Focus"
+      },
+      {
+        "notableId": "explicit.stat_684155617",
+        "notableName": "Mage Bane"
+      },
+      {
+        "notableId": "explicit.stat_2773515950",
+        "notableName": "Second Skin"
+      },
+      {
+        "notableId": "explicit.stat_982290947",
+        "notableName": "Flexible Sentry"
+      },
+      {
+        "notableId": "explicit.stat_4054656914",
+        "notableName": "Vicious Guard"
+      },
+      {
+        "notableId": "explicit.stat_2314111938",
+        "notableName": "Mystical Ward"
+      },
+      {
+        "notableId": "explicit.stat_2478282326",
+        "notableName": "Rote Reinforcement"
+      },
+      {
+        "notableId": "explicit.stat_2118664144",
+        "notableName": "Mage Hunter"
+      },
+      {
+        "notableId": "explicit.stat_254194892",
+        "notableName": "Riot Queller"
+      },
+      {
+        "notableId": "explicit.stat_1976069869",
+        "notableName": "One with the Shield"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 45,
+    "clusterName": "1% Chance to Block Spell Damage",
+    "clusterCombCount": 14,
+    "clusterPrefixCount": 14,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_1705633890",
+        "notableName": "Prodigious Defence"
+      },
+      {
+        "notableId": "explicit.stat_282062371",
+        "notableName": "Strike Leader"
+      },
+      {
+        "notableId": "explicit.stat_164032122",
+        "notableName": "Powerful Ward"
+      },
+      {
+        "notableId": "explicit.stat_252724319",
+        "notableName": "Enduring Ward"
+      },
+      {
+        "notableId": "explicit.stat_1088949570",
+        "notableName": "Stoic Focus"
+      },
+      {
+        "notableId": "explicit.stat_684155617",
+        "notableName": "Mage Bane"
+      },
+      {
+        "notableId": "explicit.stat_2773515950",
+        "notableName": "Second Skin"
+      },
+      {
+        "notableId": "explicit.stat_982290947",
+        "notableName": "Flexible Sentry"
+      },
+      {
+        "notableId": "explicit.stat_4054656914",
+        "notableName": "Vicious Guard"
+      },
+      {
+        "notableId": "explicit.stat_2314111938",
+        "notableName": "Mystical Ward"
+      },
+      {
+        "notableId": "explicit.stat_2478282326",
+        "notableName": "Rote Reinforcement"
+      },
+      {
+        "notableId": "explicit.stat_2118664144",
+        "notableName": "Mage Hunter"
+      },
+      {
+        "notableId": "explicit.stat_254194892",
+        "notableName": "Riot Queller"
+      },
+      {
+        "notableId": "explicit.stat_1976069869",
+        "notableName": "One with the Shield"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 46,
+    "clusterName": "+15% to Fire Resistance",
+    "clusterCombCount": 10,
+    "clusterPrefixCount": 10,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_2342448236",
+        "notableName": "Prismatic Heart"
+      },
+      {
+        "notableId": "explicit.stat_3492924480",
+        "notableName": "Prismatic Carapace"
+      },
+      {
+        "notableId": "explicit.stat_1038955006",
+        "notableName": "Dragon Hunter"
+      },
+      {
+        "notableId": "explicit.stat_1149662934",
+        "notableName": "Prismatic Dance"
+      },
+      {
+        "notableId": "explicit.stat_982290947",
+        "notableName": "Flexible Sentry"
+      },
+      {
+        "notableId": "explicit.stat_3875792669",
+        "notableName": "Molten One's Mark"
+      },
+      {
+        "notableId": "explicit.stat_3188756614",
+        "notableName": "Fire Attunement"
+      },
+      {
+        "notableId": "explicit.stat_2372915005",
+        "notableName": "Pure Might"
+      },
+      {
+        "notableId": "explicit.stat_1127706436",
+        "notableName": "Blacksmith"
+      },
+      {
+        "notableId": "explicit.stat_731840035",
+        "notableName": "Non-Flammable"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 47,
+    "clusterName": "+15% to Cold Resistance",
+    "clusterCombCount": 9,
+    "clusterPrefixCount": 9,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_2342448236",
+        "notableName": "Prismatic Heart"
+      },
+      {
+        "notableId": "explicit.stat_3492924480",
+        "notableName": "Prismatic Carapace"
+      },
+      {
+        "notableId": "explicit.stat_1149662934",
+        "notableName": "Prismatic Dance"
+      },
+      {
+        "notableId": "explicit.stat_982290947",
+        "notableName": "Flexible Sentry"
+      },
+      {
+        "notableId": "explicit.stat_755881431",
+        "notableName": "Winter Prowler"
+      },
+      {
+        "notableId": "explicit.stat_2294919888",
+        "notableName": "Hibernator"
+      },
+      {
+        "notableId": "explicit.stat_1621496909",
+        "notableName": "Pure Guile"
+      },
+      {
+        "notableId": "explicit.stat_2912949210",
+        "notableName": "Alchemist"
+      },
+      {
+        "notableId": "explicit.stat_2622946553",
+        "notableName": "Antifreeze"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 48,
+    "clusterName": "+15% to Lightning Resistance",
+    "clusterCombCount": 9,
+    "clusterPrefixCount": 9,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_2342448236",
+        "notableName": "Prismatic Heart"
+      },
+      {
+        "notableId": "explicit.stat_3492924480",
+        "notableName": "Prismatic Carapace"
+      },
+      {
+        "notableId": "explicit.stat_1149662934",
+        "notableName": "Prismatic Dance"
+      },
+      {
+        "notableId": "explicit.stat_982290947",
+        "notableName": "Flexible Sentry"
+      },
+      {
+        "notableId": "explicit.stat_3078065247",
+        "notableName": "Wizardry"
+      },
+      {
+        "notableId": "explicit.stat_4025536654",
+        "notableName": "Capacitor"
+      },
+      {
+        "notableId": "explicit.stat_3509724289",
+        "notableName": "Pure Aptitude"
+      },
+      {
+        "notableId": "explicit.stat_478147593",
+        "notableName": "Sage"
+      },
+      {
+        "notableId": "explicit.stat_212648555",
+        "notableName": "Insulated"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 49,
+    "clusterName": "+12% to Chaos Resistance",
+    "clusterCombCount": 6,
+    "clusterPrefixCount": 6,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_131358113",
+        "notableName": "Exposure Therapy"
+      },
+      {
+        "notableId": "explicit.stat_2449392400",
+        "notableName": "Born of Chaos"
+      },
+      {
+        "notableId": "explicit.stat_774369953",
+        "notableName": "Antivenom"
+      },
+      {
+        "notableId": "explicit.stat_713945233",
+        "notableName": "Rot-Resistant"
+      },
+      {
+        "notableId": "explicit.stat_775689239",
+        "notableName": "Blessed"
+      },
+      {
+        "notableId": "explicit.stat_3202667190",
+        "notableName": "Student of Decay"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 50,
+    "clusterName": "+2% chance to Suppress Spell Damage",
+    "clusterCombCount": 5,
+    "clusterPrefixCount": 5,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_2665170385",
+        "notableName": "Hit and Run"
+      },
+      {
+        "notableId": "explicit.stat_2758966888",
+        "notableName": "Untouchable"
+      },
+      {
+        "notableId": "explicit.stat_3848677307",
+        "notableName": "Aerialist"
+      },
+      {
+        "notableId": "explicit.stat_289714529",
+        "notableName": "Elegant Form"
+      },
+      {
+        "notableId": "explicit.stat_846491278",
+        "notableName": "Darting Movements"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 54,
+    "clusterName": "6% increased Mana Reservation Efficiency of Skills",
+    "clusterCombCount": 17,
+    "clusterPrefixCount": 17,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_1496043857",
+        "notableName": "Replenishing Presence"
+      },
+      {
+        "notableId": "explicit.stat_3257074218",
+        "notableName": "Master of Command"
+      },
+      {
+        "notableId": "explicit.stat_1134501245",
+        "notableName": "Spiteful Presence"
+      },
+      {
+        "notableId": "explicit.stat_507505131",
+        "notableName": "Purposeful Harbinger"
+      },
+      {
+        "notableId": "explicit.stat_3860179422",
+        "notableName": "Destructive Aspect"
+      },
+      {
+        "notableId": "explicit.stat_3950683692",
+        "notableName": "Electric Presence"
+      },
+      {
+        "notableId": "explicit.stat_2350668735",
+        "notableName": "Volatile Presence"
+      },
+      {
+        "notableId": "explicit.stat_2620267328",
+        "notableName": "Righteous Path"
+      },
+      {
+        "notableId": "explicit.stat_2372915005",
+        "notableName": "Pure Might"
+      },
+      {
+        "notableId": "explicit.stat_1621496909",
+        "notableName": "Pure Guile"
+      },
+      {
+        "notableId": "explicit.stat_3509724289",
+        "notableName": "Pure Aptitude"
+      },
+      {
+        "notableId": "explicit.stat_3025453294",
+        "notableName": "Self-Control"
+      },
+      {
+        "notableId": "explicit.stat_382360671",
+        "notableName": "Uncompromising"
+      },
+      {
+        "notableId": "explicit.stat_2251304016",
+        "notableName": "Sublime Form"
+      },
+      {
+        "notableId": "explicit.stat_3881737087",
+        "notableName": "Mortifying Aspect"
+      },
+      {
+        "notableId": "explicit.stat_792262925",
+        "notableName": "Frantic Aspect"
+      },
+      {
+        "notableId": "explicit.stat_1309218394",
+        "notableName": "Introspection"
+      }
+    ],
+    "clusterSuffixes": []
+  },
+  {
+    "clusterId": 55,
+    "clusterName": "2% increased Effect of your Curses",
+    "clusterCombCount": 12,
+    "clusterPrefixCount": 12,
+    "clusterSuffixCount": 0,
+    "clusterPrefixes": [
+      {
+        "notableId": "explicit.stat_156080652",
+        "notableName": "Evil Eye"
+      },
+      {
+        "notableId": "explicit.stat_462115791",
+        "notableName": "Doedre's Spite"
+      },
+      {
+        "notableId": "explicit.stat_1936135020",
+        "notableName": "Victim Maker"
+      },
+      {
+        "notableId": "explicit.stat_2055715585",
+        "notableName": "Lord of Drought"
+      },
+      {
+        "notableId": "explicit.stat_3758712376",
+        "notableName": "Blizzard Caller"
+      },
+      {
+        "notableId": "explicit.stat_348883745",
+        "notableName": "Tempt the Storm"
+      },
+      {
+        "notableId": "explicit.stat_3832665876",
+        "notableName": "Misery Everlasting"
+      },
+      {
+        "notableId": "explicit.stat_50129423",
+        "notableName": "Exploit Weakness"
+      },
+      {
+        "notableId": "explicit.stat_555800967",
+        "notableName": "Hound's Mark"
+      },
+      {
+        "notableId": "explicit.stat_2695848124",
+        "notableName": "Doedre's Gluttony"
+      },
+      {
+        "notableId": "explicit.stat_1381945089",
+        "notableName": "Doedre's Apathy"
+      },
+      {
+        "notableId": "explicit.stat_185592058",
+        "notableName": "Master of the Maelstrom"
+      }
+    ],
+    "clusterSuffixes": []
+  }
+]

@@ -21,6 +21,11 @@ CURRENCY_ID = {
     'exalted': 2,
 }
 
+CURRENCY_ID = {
+    'divine': 3,
+    'alch': 4,
+}
+
 def debug(msg) -> None:
     if DEBUG:
         print(msg)
