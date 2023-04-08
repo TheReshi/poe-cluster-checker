@@ -46,7 +46,11 @@ def get_item_prices(cluster_id, combs):
     while not item_data:
         for sess_id in SESSION_ID:
             item_data = get_item_data(sess_id, cluster_id, combs)
-            if item_data:
+            if item_data == -1:
+                print("Trade site probably dead!")
+                time.sleep(300)
+                item_data = get_item_prices(cluster_id, combs)
+            if item_data and item_data != -1:
                 break
         if not item_data:
             time.sleep(60)
@@ -293,12 +297,18 @@ def get_item_data(session_id, cluster_id, combs):
     
     found_items_response = requests.post('https://www.pathofexile.com/api/trade/search/' + LEAGUE, cookies=cookies, headers=headers, json=json_data)
 
-    res.debug(f"Headers from trade: {found_items_response.headers}")
+    try:
 
-    if 'error' in found_items_response.json():
-        res.debug(f"Error while getting items with SESSID: {session_id} | Error: {found_items_response.json()}")
+        res.debug(f"Headers from trade: {found_items_response.headers}")
 
-    return found_items_response
+        if 'error' in found_items_response.json():
+            res.debug(f"Error while getting items with SESSID: {session_id} | Error: {found_items_response.json()}")
+
+        return found_items_response
+    
+    except:
+
+        return -1
 
 def fetch_items(found_items, sess_id):
     res.debug(f"Fetching items with SESSID: {sess_id}")
