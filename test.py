@@ -47,16 +47,18 @@ def pricecheck_cluster(cluster_size):
         cluster_id = int(cluster["clusterId"])
         cluster_name = cluster["clusterName"].replace("\n", "")
         cluster_combs = int(cluster["clusterCombCount"])
+        current_comb_local = 0
 
         for combs in cluster["clusterCombs"]:
             current_comb += 1
+            current_comb_local += 1
 
             item_price = pc.get_item_prices(cluster_id, combs)
 
             if len(item_price) > 5:
                 item_price = item_price[:5]
 
-            print(f'[{res.BgColors.BLUE}{comb_count} / {current_comb}{res.BgColors.ENDC}][{res.BgColors.GREEN}{cluster_combs} / {current_comb}{res.BgColors.ENDC}] {cluster_id} {cluster_name} | {", ".join([comb["notableName"] for comb in combs])}: {item_price}')
+            print(f'[{res.BgColors.BLUE}{comb_count} / {current_comb}{res.BgColors.ENDC}][{res.BgColors.GREEN}{cluster_combs} / {current_comb_local}{res.BgColors.ENDC}] {cluster_id} {cluster_name} | {", ".join([comb["notableName"] for comb in combs])}: {item_price}')
 
             writable_price = [str(i) for i in item_price]
             
