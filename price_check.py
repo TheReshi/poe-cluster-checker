@@ -46,6 +46,8 @@ def get_item_prices(cluster_id, combs):
     while not item_data:
         for sess_id in SESSION_ID:
             item_data = get_item_data(sess_id, cluster_id, combs)
+            print(f"{sess_id}, {cluster_id}, {combs}")
+            print(f"Item data: {item_data}")
             while item_data == -1:
                 print("Trade site probably dead!")
                 time.sleep(300)
