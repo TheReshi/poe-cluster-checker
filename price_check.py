@@ -10,7 +10,7 @@ non_added = []
 def read_sess_ids():
     with open("sessid.txt", 'r') as sessidfile:
         for sessid in sessidfile:
-            SESSION_ID.append(sessid)
+            SESSION_ID.append(sessid.strip())
 
 def get_currency_data():
     for currency in res.CURRENCY_ID.keys():
