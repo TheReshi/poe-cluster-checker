@@ -24,7 +24,7 @@ def generate_combinations(jewel_size):
         else:
             cluster_combs = cluster["clusterPrefixes"]
 
-        print(cluster_combs)
+        # print(cluster_combs)
 
         cluster_info = {
             'clusterId': cluster["clusterId"],
