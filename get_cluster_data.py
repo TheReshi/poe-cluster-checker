@@ -52,7 +52,7 @@ def get_poedb_data(cluster_size):
             cluster_name = cluster_name.split('(', 1)[0]
 
         cluster_id = 0
-        for i in all_stats['result'][4]['entries'][0]['option']['options']:
+        for i in all_stats['result'][4]['entries'][2]['option']['options']:
             if i['text'].replace('\n', '') == cluster_name:
                 cluster_name = i['text']
                 cluster_id = i['id']
