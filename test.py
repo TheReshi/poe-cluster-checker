@@ -38,7 +38,10 @@ def pricecheck_cluster(cluster_size):
 
     if os.path.exists(f"data/output/{cluster_size.lower()}_prices.csv"):
         with open(f"data/output/{cluster_size.lower()}_prices.csv", "w") as file:
-            pass
+            if cluster_size.lower() == "large":
+                file.write("Cluster ID;Cluster Name;Prefix 1;Prefix 2;Suffix;Price 1;Price 2;Price 3;Price 4;Price 5\n")
+            else:
+                file.write("Cluster ID;Cluster Name;Prefix 1;Prefix 2;Price 1;Price 2;Price 3;Price 4;Price 5\n")
 
     comb_count = cc.count_combs(cluster_size)
     current_comb = 0
